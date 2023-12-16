@@ -14,7 +14,7 @@ export const Button = styled.button<{
 	line-height: 1;
 
 	color: ${(props) => (props.primary ? "white" : "#333")};
-	background-color: ${(props) => (props.primary ? "blue" : "transparent")};
+	background-color: ${(props) => (props.primary ? "red" : "transparent")};
 	box-shadow: ${(props) =>
 		!props.primary ? "0, 0, 0, 0.15) 0px 0px 0px 1px inset" : ""};
 

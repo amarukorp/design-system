@@ -19,7 +19,7 @@ export const CardHeader = styled.div`
 
 export const CardContent = styled.div`
 	padding: 16px;
-	color: black;
+	color: grey;
 	> p {
 		margin: 0;
 	}
