@@ -30,7 +30,7 @@ export const Button: Story = {
   args: {
     primary: true,
     label: 'Button',
-    size:'medium'
+    size:'small'
   },
 };
 
